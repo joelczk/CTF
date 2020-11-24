@@ -1,4 +1,4 @@
-This is another easy challenge where you have to observe the java code provided to find the flag
+This is another easy challenge where you have to observe the java code provided to find the flag \
 Observing the java code provided, we notice the following lines of code:
 ```
 public boolean checkPassword(String password) {
